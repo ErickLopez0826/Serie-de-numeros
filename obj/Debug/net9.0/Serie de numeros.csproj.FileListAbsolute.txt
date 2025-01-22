@@ -1,0 +1,14 @@
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\bin\Debug\net9.0\Serie de numeros.exe
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\bin\Debug\net9.0\Serie de numeros.deps.json
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\bin\Debug\net9.0\Serie de numeros.runtimeconfig.json
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\bin\Debug\net9.0\Serie de numeros.dll
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\bin\Debug\net9.0\Serie de numeros.pdb
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\obj\Debug\net9.0\Serie de numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\obj\Debug\net9.0\Serie de numeros.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\obj\Debug\net9.0\Serie de numeros.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\obj\Debug\net9.0\Serie de numeros.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\obj\Debug\net9.0\Serie de numeros.dll
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\obj\Debug\net9.0\refint\Serie de numeros.dll
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\obj\Debug\net9.0\Serie de numeros.pdb
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\obj\Debug\net9.0\Serie de numeros.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Programas onedrive\Serie de numeros\obj\Debug\net9.0\ref\Serie de numeros.dll
